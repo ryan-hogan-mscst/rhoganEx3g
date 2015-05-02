@@ -1,0 +1,20 @@
+101
+Ryan Hogan
+10.0
+0
+102
+Patti Weigand
+20.0
+0
+103
+Lyle Stelter
+30.0
+0
+104
+Neva Burdick
+40.0
+0
+105
+Lisa Laing
+50.0
+0	
